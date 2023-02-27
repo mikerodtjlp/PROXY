@@ -1,6 +1,6 @@
 # PACIFIC
 
-Development
+# Development
   MVC C#
   Electron - Javascript
   Django - Python
@@ -9,7 +9,7 @@ Development
   Laravel - Php
   Fluter - Dart
   
-QA
+# QA
   Automation
     Selenium
     Cypress
@@ -25,7 +25,7 @@ QA
     QMetry
     TestRail
 
-IDE
+# IDE
   Pycharm
   Visual Code
   Visual Studio
@@ -34,20 +34,21 @@ IDE
   Eclipse
   
   
-Business Intelligence
+# Business Intelligence
   Power BI
   Databricks
     Notebooks
   Jupyter
+  Domo
   
   
-Devops
+# Devops
   Azure Devops
   Gitlab
   Github
   
   
-Languages
+# Languages
   C/C++
   C#
   Python
@@ -56,19 +57,20 @@ Languages
   Php
   
 
-IOT
+# IOT
   Azure IOT
+  Python Raspberry
   
   
-Documentation
+# Documentation
   Azure Wiki
   Confluence
   
   
-Scrum/Project Management
+# Scrum/Project Management
   Azure Devops
   Jira
 
 
-Email
+# Email
   testmail.app
