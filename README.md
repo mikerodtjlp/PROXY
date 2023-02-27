@@ -40,7 +40,15 @@
     Notebooks
   Jupyter
   Domo
+  Google Analytics
   
+ 
+# Cloud Platforms
+  Devops
+  Google Cloud
+  IBM Cloud
+  AWS
+  Oracle Cloud
   
 # Devops
   Azure Devops
