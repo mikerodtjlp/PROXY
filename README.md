@@ -68,3 +68,7 @@ Documentation
 Scrum/Project Management
   Azure Devops
   Jira
+
+
+Email
+  testmail.app
