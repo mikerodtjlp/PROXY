@@ -58,3 +58,13 @@ Languages
 
 IOT
   Azure IOT
+  
+  
+Documentation
+  Azure Wiki
+  Confluence
+  
+  
+Scrum/Project Management
+  Azure Devops
+  Jira
