@@ -83,3 +83,32 @@
 
 # Email
   testmail.app
+
+
+QA Stuff ---------------------------------------------------
+WEBDRIVER
+cypress
+xUnit.net
+Spock
+TestNG
+EarlGrey
+Jasmine
+Playwright
+MSTest
+JUnit
+gauge
+behave
+espresso
+Puppeteer
+Karate Labs
+Mocha
+nunit
+Serenity BDD
+pytest
+XCTest
+jbehave
+Nightwatch.js
+specflow
+Cucumber
+Detox
+Protactor
