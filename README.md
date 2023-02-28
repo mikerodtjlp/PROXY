@@ -12,7 +12,11 @@
 # QA
   Automation
     Selenium
+    Appium
     Cypress
+    
+    LambdaTest
+    Cucumber
     
   Frameworks
     MSTest - C#
@@ -112,3 +116,38 @@ specflow
 Cucumber
 Detox
 Protactor
+
+TEST AUTOMATION COMMERCIAL FRAMEWORKS ---------------------------------------------------
+Katalon
+eggplant
+TRICENTIS Tosca
+Ranorex (An Idera, Inc Company)
+TestComplete
+Kobiton
+functionize
+testIM
+testsigma
+mabl
+ACCELQ
+
+
+TESTING STUFF ------------------------------------------------------------------------------
+TestProject
+MICRO FOCUS UFT
+IBM RATIONAL FUNCTIONAL TESTER
+SELENIUM SPONSOR
+  Perfecto (Perfoce)
+  BrowseStack
+  SAUCELABS
+  experitest
+  New Relic SYNTHETICS
+  CrossBrowserTesting (A SMARTBEAR COMPANY)
+  applitools
+  Ranorex Selocity
+  Subject (QUALITY IS A CULTURE)
+  Testbirds
+  MULTILOGIN
+test craft
+Jelvix
+Subject7
+Chrome Developer Tools????
