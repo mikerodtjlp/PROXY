@@ -85,7 +85,7 @@
   testmail.app
 
 
-QA Stuff ---------------------------------------------------
+TEST AUTOMATION FRAMEWORKS ---------------------------------------------------
 WEBDRIVER
 cypress
 xUnit.net
